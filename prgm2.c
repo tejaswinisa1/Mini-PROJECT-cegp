@@ -2,12 +2,12 @@
 Write a C program that reads a series of integers from a user, stores them in an array, and calculates the mean and standard
 deviation.
 Requirements:
-• Use defensive programming principles:
+â€¢ Use defensive programming principles:
 o Check input bounds (maximum 100 numbers).
 o Handle invalid, non-integer, or out-of-range inputs gracefully.
-• Organize your code into clear, single-purpose functions (e.g., input, validation, computation).
-• Include detailed in-code comments describing how errors are detected and handled.
-• Summarize (in 100-150 words) how your code design ensures robustness and prevents common runtime errors.*/#include <stdio.h>
+â€¢ Organize your code into clear, single-purpose functions (e.g., input, validation, computation).
+â€¢ Include detailed in-code comments describing how errors are detected and handled.
+â€¢ Summarize (in 100-150 words) how your code design ensures robustness and prevents common runtime errors.*/#include <stdio.h>
 #include <stdlib.h>   // for exit()
 #include <math.h>     // for sqrt()
 #include <string.h>   // for strtok
