@@ -2,12 +2,12 @@
 Write a C program that implements a basic Binary Search Tree (BST) with functionality to insert integers, search for a value,
 delete a node, and display the tree in-order.
 Requirements:
-• Use defensive programming principles:
+â€¢ Use defensive programming principles:
 o Check for memory allocation errors and invalid operations (e.g., deleting from an empty tree, searching for
 non-existent values).
 o Organize code into well-defined functions (insert, search, delete, display).
-• Include detailed comments on error detection and handling.
-• Summarize (in 100-150 words) how your design and error management prevent crashes and improper tree operations.*/
+â€¢ Include detailed comments on error detection and handling.
+â€¢ Summarize (in 100-150 words) how your design and error management prevent crashes and improper tree operations.*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
