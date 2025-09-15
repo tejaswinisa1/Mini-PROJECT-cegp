@@ -1,7 +1,7 @@
 /*Design and implement a C program to manage a simple library system. The program should allow the user to:
-• Add new books (with title, author, ISBN).
-• Search for a book by title.
-• Display all available books.*/
+â€¢ Add new books (with title, author, ISBN).
+â€¢ Search for a book by title.
+â€¢ Display all available books.*/
 /*
  * Library Management System in C (using scanf instead of fgets)
  * Features:
